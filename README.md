@@ -1,6 +1,6 @@
-# I'm [Keshav](https://github.com/abhishekHegde2000)👋
+# I'm [Abhishek Hegde](https://github.com/abhishekHegde2000)👋
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;I'm+Techie+Nerd)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Full+Stack+Web+Developer;I'm+a+Techie+Nerd)](https://git.io/typing-svg)
 
 
 <!-- <h2 align="center">
@@ -16,7 +16,7 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fgiphy.gif?alt=media&token=e92f9416-8187-4ffa-a38c-47842be32451"/>
 
 ## About me
-### ✨ Creating bugs since  2020
+### ✨ Creating bugs since  2022
 ### 📚 I'm a Techie nerd
 ### 🎯 Goals: Hustle to get into 0.1%
 ### 🎲 Fun fact: If its working, don’t touch it
@@ -24,10 +24,9 @@
 <br>
 
 ## 🚀 Connect with me
-[![Github](https://skillicons.dev/icons?i=github)](https://github.com/keshavop)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/keshavop/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Keshavkop)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/keshav.kk_)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/abhishekHegde2000)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abhishek-hegde-4b1513281/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_abhishekhegde_)
 
 
 <!-- ## 👨‍💻Coding Profile
@@ -50,29 +49,24 @@
 
 ## 👨‍💻Coding Profile
 
-<a href="https://www.hackerrank.com/keshavop" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F1.svg?alt=media&token=9c2b3538-0e15-4486-bcfc-9fed8f6a5d1f" alt="hackerrank" height="45" width="45" /></a>
-<a href="https://www.hackerearth.com/@keshavop" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F2.svg?alt=media&token=2c41ad25-be30-4bda-b0aa-7e796f6b1633" alt="hackerearth" height="45" width="45" /></a>
-<a href="https://www.codechef.com/users/keshavop" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F3.svg?alt=media&token=fd41549b-62c2-4254-993c-c79a07e0bc05" alt="codechef" height="45" width="45" /></a>
-<a href="https://codeforces.com/profile/keshavop" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F4.svg?alt=media&token=314ac6c1-95f4-403d-a324-091310e8f54c" alt="codeforces" height="45" width="45" /></a>
-<a href="https://auth.geeksforgeeks.org/user/keshavop/profile" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F5.svg?alt=media&token=dcf0a6d1-d72b-4716-b119-5db5e169480c" alt="gfg" height="45" width="45" /></a>
-<a href="https://www.leetcode.com/keshavop" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F6.svg?alt=media&token=2e74ad55-57f2-40aa-adff-c46ea7a8b4c5" alt="leetcode" height="45" width="45" /></a>
+<a href="https://www.leetcode.com/abhiHegde28" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F6.svg?alt=media&token=2e74ad55-57f2-40aa-adff-c46ea7a8b4c5" alt="leetcode" height="45" width="45" /></a>
 
 ## 🛠️Skills
 ### I Code in
 
-[![I Code in](https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,js)](https://github.com/keshavop)
+[![I Code in](https://skillicons.dev/icons?i=js,python,java)](https://github.com/abhishekHegde2000)
 
 <!-- ### Web Development
 [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,nodejs,express,mongo,react,redux,angular)]() -->
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,angular,figma)](https://github.com/keshavop)
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux)](https://github.com/abhishekHegde2000)
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase,aws,gcp)](https://github.com/keshavop)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase,aws,gcp)](https://github.com/abhishekHegde2000)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,docker,vscode,idea,md,ps)](https://github.com/keshavop)
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,vscode,idea)](https://github.com/abhishekHegde2000)
 
 <hr>
 
@@ -106,7 +100,7 @@
 
 <!-- ### 🐍 Watch Snake eating my contribution -->
 
-<!-- ![snake svg](https://github.com/keshavop/keshavop/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![snake svg](https://github.com/abhishekHegde2000/keshavop/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=keshavop&theme=dracula&no-frame=false&no-bg=false&margin-w=4) -->
