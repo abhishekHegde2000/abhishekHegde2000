@@ -62,6 +62,9 @@
 </div>
 -->
 
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abhishekHegde2000&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ![](https://i.imgur.com/waxVImv.png)
 
 
