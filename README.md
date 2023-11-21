@@ -18,6 +18,7 @@
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/abhishekHegde2000)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abhishek-hegde-4b1513281/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_abhishekhegde_)
+[![X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/abhishekHegde28)
 
 
 
