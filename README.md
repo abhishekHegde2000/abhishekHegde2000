@@ -66,10 +66,28 @@
 -->
 
 ### 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=abhishekHegde2000&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ![](https://i.imgur.com/waxVImv.png)
 
+<!-- 
+
+<h2 align="center">
+<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31"/>
+<img src="https://komarev.com/ghpvc/?username=abhishekHegde2000&&style=round-square" align="center" />
+<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31"/>
+</h2>
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abhishekHegde2000&theme=dracula&no-frame=false&no-bg=false&margin-w=4) 
+
+[![@Abhi's Holopin board](https://holopin.me/abhishekHegde2000)](https://holopin.io/@keshavop)
+
+-->
 
