@@ -31,7 +31,7 @@
 ## 🛠️Skills
 ### I Code in
 
-[![I Code in](https://skillicons.dev/icons?i=js,python,java)](https://github.com/abhishekHegde2000)
+[![I Code in](https://skillicons.dev/icons?i=js,typescript,python,java)](https://github.com/abhishekHegde2000)
 
 
 ### Frontend
