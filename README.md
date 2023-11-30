@@ -55,14 +55,7 @@
      
   </tr>
 
-</table>
-<div align="center">
-<table>
-  <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekHegde2000&langs_count=10&show_icons=true&locale=en&theme=radical" alt="abhishekHegde2000" /></td>
-  </tr>
-</table>
-</div>
+
 
 
 
