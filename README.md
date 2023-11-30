@@ -51,8 +51,19 @@
   <tr>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekHegde2000&show_icons=true&locale=en&theme=radical" alt="abhishekHegde2000" /></td>
     <td><img align= "center" alt="Abhi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekHegde2000&theme=radical"/></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekHegde2000&langs_count=10&show_icons=true&locale=en&theme=radical" alt="abhishekHegde2000" /></td>
+     
+  </tr>
+
+</table>
+<div align="center">
+<table>
+  <tr>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekHegde2000&langs_count=10&show_icons=true&locale=en&theme=radical" alt="abhishekHegde2000" /></td>
   </tr>
 </table>
+</div>
+
 
 
 <!-- 
