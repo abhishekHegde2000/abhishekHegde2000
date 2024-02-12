@@ -47,16 +47,25 @@
 
 ## 📊Github Stats
 
-<table>
-  <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekHegde2000&show_icons=true&locale=en&theme=radical" alt="abhishekHegde2000" /></td>
-    <td><img align="center" alt="Abhi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekHegde2000&theme=radical"/></td>
-    <td ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekHegde2000&langs_count=10&show_icons=true&locale=en&theme=radical" alt="abhishekHegde2000" /></td>
-
-  </tr>
-
-   
+<table align="center" style="border-collapse: collapse; border: 1px solid #ddd">
+    <tr>
+        <th colspan="2">GitHub Statistics for abhishekHegde2000</th>
+    </tr>
+    <tr>
+        <td style="text-align: center; border: 1px solid #ddd; padding: 5px;">
+            <img src="https://github-readme-stats.vercel.app/api?username=abhishekHegde2000&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" height="200">
+        </td>
+        <td style="text-align: center; border: 1px solid #ddd; padding: 5px;">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekHegde2000&theme=blue-green&hide_border=false" alt="GitHub Streak Stats" width="400" height="200">
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center; border: 1px solid #ddd; padding: 5px;">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekHegde2000&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400" height="200">
+        </td>
+    </tr>
 </table>
+
 
 
 
