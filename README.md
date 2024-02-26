@@ -47,6 +47,7 @@
 
 ## 📊Github Stats
 
+<!-- 
 <table align="center" style="border-collapse: collapse; border: 1px solid #ddd">
     <tr>
         <th colspan="2">GitHub Statistics for abhishekHegde2000</th>
@@ -64,7 +65,29 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekHegde2000&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400" height="200">
         </td>
     </tr>
+
+
 </table>
+-->
+
+<table>
+  <tr>
+    <td>
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekHegde2000&langs_count=10&show_icons=true&locale=en&theme=radical" alt="abhishekHegde2000" /></p>
+            <td>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekHegde2000&show_icons=true&locale=en&theme=radical" alt="abhishekHegde2000" /></p>
+    </td>
+    <td>
+      <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekHegde2000&theme=radical" alt="abhishekHegde2000" /></p>
+    </td>
+    </td>
+
+      
+  </tr>
+
+
+</table>
+
 
 
 
@@ -103,7 +126,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhishekHegde2000&theme=dracula&no-frame=false&no-bg=false&margin-w=4) 
 
-[![@Abhi's Holopin board](https://holopin.me/abhishekHegde2000)](https://holopin.io/@keshavop)
+[![@Abhi's Holopin board](https://holopin.me/abhishekHegde2000)](https://holopin.io/@abhishekHegde2000)
 
 -->
 
